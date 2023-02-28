@@ -9,8 +9,8 @@ you are welcome to discuss the assignments with any students without sharing cod
 ### Check Course Calendar/Canvas for Due Dates
 By the deadline
 * Push the updated notebook (and other updated files) to your Github classroom repository.
-* Complete all the questions
-* Submit Github URL to Canvas
+* Complete all the questions 
+* Submit Github URL to Canvas along with pdf export of your notebook.
 
 ## Getting Started
 
