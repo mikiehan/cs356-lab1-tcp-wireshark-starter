@@ -73,6 +73,3 @@ file. Push the updated files to the Github repository and submit URL to Canvas.
 
 #### Acknowledgement
 This assignment is adopted from [Nick Feamster](https://computernetworksbook.com/resources.html).
-
-
-# cs356-lab1-tcp-wireshark-starter
